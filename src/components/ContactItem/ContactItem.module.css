@@ -1,0 +1,14 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+.button {
+    background-color: #AF1B3F;
+}
+
+.button:hover {
+    color: black;
+    background-color: #EFC69B;
+}
